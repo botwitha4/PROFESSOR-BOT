@@ -1,5 +1,5 @@
 class script(object):  
-    START_TXT = """<b>✨ Hᴇʟʟᴏ {user}.
+    START_TXT = """<b>✨ Hᴇʟʟᴏ {user} 💙.
 
 Mʏ Nᴀᴍᴇ Is {bot}.
 
@@ -8,16 +8,26 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/Mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a href=https://t.me/axmedafrin>Aғʀɪɴ</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
-✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴩʀᴏꜰᴇꜱꜱᴏʀ-ʙᴏᴛ ᴠ4.5.0</b>"""
+✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴩʀᴏꜰᴇꜱꜱᴏʀ-ʙᴏᴛ ᴠ2.0.0</b>
+✯ Mᴀɪɴ Cʜᴀɴɴᴇʟ <a href=https://t.me/WITHa4> movie WITH a4</a>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/MrMKN/PROFESSOR-BOT>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
+- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁E 💙👉 :<a href=https://t.me/movieWITHa4_bot>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/Mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a></b>"""
+<b>Channel</b>
+- Mᴀɪɴ Cʜᴀɴɴᴇʟ <a href=https://t.me/WITHa4> movie WITH a4</a>
+- Bᴀᴄᴋᴜᴘ Cʜᴀɴɴᴇʟ <a href=https://t.me/+KekZLtJw7WQ3ZWM1> Bᴀᴄᴋᴜᴘ </a>
+
+<b>Group</b>
+- Rᴇϙᴜᴇsᴛ Gʀᴏᴜᴘ <a href=https://t.me/ask_movieWITHa4_2> Rᴇϙᴜᴇsᴛ Hᴇʀᴇ </a>
+
+<b>DEVS:</b>
+- Dev 1 <a href=https://t.me/axmedafrin> Aғʀɪɴ </a>
+- Dev 2 <a href=https://t.me/lovehaju> Hᴀᴊᴜ 💙 </a>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
@@ -28,9 +38,9 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ➪ /batch › Tᴏ Cʀᴇᴀᴛᴇ Lɪɴᴋ Fᴏʀ Mᴜʟᴛɪᴘʟᴇ Mᴇᴅɪᴀ
 
 <b>⪼ EG:</b>
-</code>/batch https://t.me/mkn_bots_updates/1 https://t.me/mkn_bots_updates/10</code>"""
+</code>/batch https://t.me/WITHa4/3 https://t.me/WITHa4/4</code>"""
   
-    FILTER_TXT = "Sᴇʟᴇᴄᴛ Wʜɪᴄʜ Oɴᴇ Yᴏᴜ Wᴀɴᴛ...✨"
+    FILTER_TXT = "Sᴇʟᴇᴄᴛ Wʜɪᴄʜ Oɴᴇ Yᴏᴜ Wᴀɴᴛ...💙✨"
     
     GLOBALFILTER_TXT = """<b>Hᴇʟᴘ Fᴏʀ Gʟᴏʙᴀʟ Fɪʟᴛᴇʀs</b>
 
@@ -225,7 +235,8 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 🏷 Tɪᴛʟᴇ: <a href={url}>{title}</a>
 🎭 Gᴇɴʀᴇꜱ: {genres}
 📆 Yᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
-🌟 Rᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a>/10"""
+🌟 Rᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a>/10
+📥 Uᴘʟᴏᴀᴅ : <a href="https://t.me/WITHa4/3">@WITHᴀ4</a>™"""
    
   
  
